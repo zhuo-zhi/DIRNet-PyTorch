@@ -8,5 +8,5 @@ Reimplementation of DIRNet with PyTorch
 python train.py
 ```
 
-## References
+## Reference
 - [End-to-End Unsupervised Deformable Image Registration with a Convolutional Neural Network](https://arxiv.org/abs/1704.06065)
