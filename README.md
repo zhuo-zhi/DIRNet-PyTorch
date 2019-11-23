@@ -2,6 +2,7 @@
 Reimplementation of DIRNet with PyTorch
 ![Diagram](Img/DIRNet.png)
 
+(diagram from the reference below)
 ## Usage
 ```
 # Training
